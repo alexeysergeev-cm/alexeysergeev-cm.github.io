@@ -3907,3 +3907,25 @@ input, select, textarea {
 			}
 
 		}
+
+
+
+		.features section {
+			width: 200px;
+			border: none;
+			border-right: none;
+		}
+		
+		.features section:nth-child(2n) {
+			border-left: none;
+		}
+
+		.features img{
+			width: 150px;
+		}
+
+		.features h1{
+			padding-left: 15px;
+			font-family: sans-serif;
+			font-size: 35px;
+		}

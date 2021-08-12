@@ -3914,6 +3914,9 @@ input, select, textarea {
 			width: 200px;
 			border: none;
 			border-right: none;
+			/* display: flex; */
+			
+			text-align: center;
 		}
 		
 		.features section:nth-child(2n) {
@@ -3921,7 +3924,10 @@ input, select, textarea {
 		}
 
 		.features img{
-			width: 150px;
+			width: 100px;
+		}
+		.features svg{
+			width: 100px;
 		}
 
 		.features h1{
@@ -3930,6 +3936,6 @@ input, select, textarea {
 			font-size: 35px;
 		}
 
-		.inner p {
+		/* .inner p {
 			text-indent: 30px;
-		}
+		} */

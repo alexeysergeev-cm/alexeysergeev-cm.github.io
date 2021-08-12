@@ -3914,9 +3914,6 @@ input, select, textarea {
 			width: 200px;
 			border: none;
 			border-right: none;
-			/* display: flex; */
-
-			text-align: center;
 		}
 		
 		.features section:nth-child(2n) {
@@ -3926,7 +3923,7 @@ input, select, textarea {
 		.features img{
 			width: 100px;
 		}
-		
+
 		.features svg{
 			width: 100px;
 		}
@@ -3936,7 +3933,3 @@ input, select, textarea {
 			font-family: sans-serif;
 			font-size: 35px;
 		}
-
-		/* .inner p {
-			text-indent: 30px;
-		} */

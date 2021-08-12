@@ -3915,7 +3915,7 @@ input, select, textarea {
 			border: none;
 			border-right: none;
 			/* display: flex; */
-			
+
 			text-align: center;
 		}
 		
@@ -3926,6 +3926,7 @@ input, select, textarea {
 		.features img{
 			width: 100px;
 		}
+		
 		.features svg{
 			width: 100px;
 		}
